@@ -1,0 +1,13 @@
+setup.py
+Common/__init__.py
+Common/CommonConfigs/__init__.py
+Common/CommonConfigs/locatorsconfig.py
+Common/CommonConfigs/urlconfig.py
+Common/CommonFuncs/__init__.py
+Common/CommonFuncs/webcommon.py
+Common/CommonSteps/__init__.py
+Common/CommonSteps/webstepscommon.py
+MyStoreReact_BDD.egg-info/PKG-INFO
+MyStoreReact_BDD.egg-info/SOURCES.txt
+MyStoreReact_BDD.egg-info/dependency_links.txt
+MyStoreReact_BDD.egg-info/top_level.txt
